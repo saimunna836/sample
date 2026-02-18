@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Best Website Ever</title>
+    <style>
+        body {
+            background-color: #ffff00; /* Bright yellow - very professional */
+            font-family: "Comic Sans MS", "Comic Sans", cursive;
+            text-align: center;
+            padding-top: 50px;
+        }
+        .container {
+            border: 5px dashed red;
+            display: inline-block;
+            padding: 20px;
+            background: white;
+        }
+        button {
+            padding: 15px 30px;
+            font-size: 20px;
+            cursor: pointer;
+            background-color: #00ff00;
+        }
+        button:hover {
+            background-color: #ff00ff;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>🚀 Welcome to My EC2 Masterpiece 🚀</h1>
+        <p>I spent 0.5 seconds designing this highly optimized website.</p>
+        
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJwamZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxVfdfE3Am4/giphy.gif" alt="Dancing banana" width="200">
+
+        <h3>Current Status:</h3>
+        <p>Running on a very expensive computer in an Amazon warehouse.</p>
+
+        <button onclick="alert('Congratulations! You clicked a button on the internet. You are now a Hacker.')">
+            DO NOT CLICK THIS
+        </button>
+
+        <p><i>Copyright &copy; 2026 - My First Server</i></p>
+    </div>
+
+</body>
+</html>
